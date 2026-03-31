@@ -1,29 +1,28 @@
- E-commerce CLI Application
+# Digital-Literacy
+Digital Literacy project covering infographic design, professional profiles, coding platforms, email etiquette and cybercrime awareness.
 
-- Description  
-This program is a command-line e-commerce platform where users can browse products, search for items, add them to their cart, and checkout.
+## Student Details
+- Name: Aylin Nisya p
+- Registration No: 25BHI10107
+- Branch: B.TECH CSE (HEALTH INFORMATICS)
+- Year: 1st Year
 
-- Features  
-1. View products  
-2. Search for products  
-3. Add products to cart  
-4. View cart  
-5. Checkout  
+## 📌 Project Overview
+This project is created as part of the CSE0001 Digital Literacy course. It demonstrates essential digital skills including online safety, professional communication, and digital tools usage.
 
-- Tech Stack  
-1. Python  
-2. JSON for storage  
+## 📂 Tasks Summary
+🔹 Task 1 – Infographic
+Created a digital literacy infographic using Canva. 📁 Folder: task-1-presentation
 
-- How to Run  
-1. Clone repository  
-2. Run:  
-   main.py  
+🔹 Task 2 – Digital Portfolio
+Created professional profiles on platforms like GitHub and LinkedIn. 📁 Folder: task-2-portfolio
 
-- Future Improvements  
-1. Add a login system  
-2. Use a SQL database
-3. Simulate payments
+🔹 Task 3 – Platforms
+Completed a coding challenge and created a Google Form quiz. 📁 Folder: task-3-platforms
+🔗 Google Form
+https://docs.google.com/forms/d/e/1FAIpQLSdvaPHthLmzY9UlAJIwMo-N4TV-ShpQ-UTXYdogbZ6-Iawbww/viewform?usp=publish-editor
 
--Author
+🔹 Task 4 – Email Etiquette
+Drafted professional emails and created social media guidelines. 📁 Folder: task-4-email-etiquette 
 
-Aylin Nisya P 
+🔹 Task 5-  case study
