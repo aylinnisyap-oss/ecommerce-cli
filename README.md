@@ -22,4 +22,7 @@ This program is a command-line e-commerce platform where users can browse produc
 - Future Improvements  
 1. Add a login system  
 2. Use a SQL database
-3. Simulate payments  
+3. Simulate payments
+
+-Author
+Aylin Nisya P 
